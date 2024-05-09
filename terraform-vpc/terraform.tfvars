@@ -1,2 +1,2 @@
-region = "us-east-2"
+region = "ap-south-1"
 name   = "acme-test-cluster"
